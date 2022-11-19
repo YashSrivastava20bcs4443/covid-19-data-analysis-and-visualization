@@ -1,4 +1,4 @@
-# covid-19-data-analysis-and-visualization
+# Covid-19-Data-Analysis-And-Visualization
 
 The goal of our project is to create a MATLAB program that processes and visualizes COVID-19 pandemic data. Once you load it, you will get a single variable called covid_data that is a large cell array. Each data cell for a given country and date contains a 2-element vector of doubles: the first element is the cumulative case count, while the second is the cumulative number of deaths.
 
