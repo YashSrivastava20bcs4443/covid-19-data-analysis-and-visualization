@@ -6,9 +6,7 @@ Our program converts this data into a set of objects: one object per country and
 
 
 Craeted by:
-YASH SRIVASTAVA || 
-KHWAHISH AGARWAL || 
-YOGESH GELHOT || 
-SWETA NEGI 
+YASH SRIVASTAVA 
+
 
 ![preview img](/preview.png)
